@@ -1,7 +1,6 @@
 body{
 padding: 0px;
 margin:0px;
-/*background:#ABAAAA;*/
 width: 100%;
 }
 
@@ -502,7 +501,7 @@ grid-template-columns: repeat(2, 1fr);
 }
 
 .contact-form {
-background-color: red;
+background-color: #3DB1FF;
 position: relative;
 }
 
@@ -517,7 +516,7 @@ content: "";
 position: absolute;
 width: 26px;
 height: 26px;
-background-color: red;
+background-color: #3DB1FF;
 transform: rotate(45deg);
 top: 50px;
 left: -13px;
@@ -543,7 +542,7 @@ position: relative;
 }
 
 .contact-info .title {
-color: red;
+color: #3DB1FF;
 }
 
 form {
@@ -612,7 +611,7 @@ padding: 0.6rem 1.3rem;
 background-color: #fff;
 border: 2px solid #fafafa;
 font-size: 0.95rem;
-color: red;
+color: #3DB1FF;
 line-height: 1;
 border-radius: 25px;
 outline: none;
@@ -646,7 +645,7 @@ width: 10%;
 opacity: 0;
 transition: 0.3s;
 height: 5px;
-background-color:red;
+background-color:#3DB1FF;
 top: 50%;
 transform: translateY(-50%;);
 }
@@ -678,7 +677,7 @@ position: relative;
 }
 
 .contact-info .c-title {
-color: red;
+color: #3DB1FF;
 }
 
 .c-text {
@@ -699,7 +698,7 @@ content: "";
 position: absolute;
 width: 110px;
 height: 100px;
-border: 22px solid red;
+border: 22px solid #3DB1FF;
 border-radius: 50%;
 bottom: -77px;
 right: 50px;
@@ -711,7 +710,7 @@ position: absolute;
 width: 500px;
 height: 500px;
 border-radius: 50%;
-background: linear-gradient(to bottom, #000, red);
+background: linear-gradient(to bottom, #000, #3DB1FF);
 bottom: 50%;
 right: 50%;
 transform: translate(-40%, 38%);
