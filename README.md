@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-![](https://komarev.com/ghpvc/?username=kashyap-shah&style=plastic)
+![](https://komarev.com/ghpvc/?username=kashyap-shah&style=plastic) 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -15,3 +15,22 @@ Talk to me about
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://kashyap-shah.github.io)
 - ⚡ Fun fact: Internet users blink less than usual.
+
+<details><summary>Github Stats</summary><br>
+  
+[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/kashyap-shah/issues)  [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)](https://github.com/kashyap-shah/pulls) 
+  
+![](https://github-readme-stats.vercel.app/api?username=kashyap-shah&show_icons=true&theme=dark) <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap-shah&layout=compact&theme=dark) <br>
+
+Advanced Github Stats : https://gitstats.me/kashyap-shah
+
+</details>
+
+<details><summary>Social</summary><br>
+
+[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.com/channels/@me)  
+
+
+</details>
