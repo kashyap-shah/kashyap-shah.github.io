@@ -30,7 +30,4 @@ Advanced Github Stats : https://gitstats.me/kashyap-shah
 
 <details><summary>Social</summary><br>
 
-[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.com/channels/@me)  
-
-
 </details>
