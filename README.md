@@ -17,10 +17,8 @@ Talk to me about
 - ⚡ Fun fact: Internet users blink less than usual.
 
 <details><summary>Github Stats</summary><br>
-  
-  [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)](https://github.com/kashyap-shah/pulls) 
-  
-  ![](https://github-readme-stats.vercel.app/api?username=kashyap-shah&show_icons=true&theme=dark) <br>
+    
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=kashyap-shah&theme=dark&show_icons=true&count_private=true) <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap-shah&layout=compact&theme=dark) <br>
 
