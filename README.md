@@ -18,7 +18,7 @@ Talk to me about
 
 <details><summary>Github Stats</summary><br>
   
-[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/kashyap-shah/issues)  [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)](https://github.com/kashyap-shah/pulls) 
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)](https://github.com/kashyap-shah/pulls) 
   
 ![](https://github-readme-stats.vercel.app/api?username=kashyap-shah&show_icons=true&theme=dark) <br>
 
