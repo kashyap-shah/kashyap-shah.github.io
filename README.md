@@ -8,7 +8,7 @@ I am Kashyap Shah 😃. I live in Veraval, Gujarat and currently I am third year
 
 ## ⚡ Technologies
 Talk to me about
-- Front-End-Developement (HTML, CSS, Javascript, PHP)
+- Front-End-Developement (HTML, CSS, Javascript, PHP, Bootstrap)
 - Back-End-Developement (MySQL, XAMPP, MAMP, Oracle Database, Java, Python)
 
 ## Hello World!! 
