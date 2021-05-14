@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kashyap-shah&style=plastic) 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://media3.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=790b76117b09c46edf1d16957646e48c9dd398a3cd19165a&rid=giphy.gif&ct=g' width='500"'>
 
 I am Kashyap Shah 😃. I live in Veraval, Gujarat and currently I am third year Undergraduate in Computer Engineering, B.Tech from Devang Patel Institute of Advance Technology And Research, CHARUSAT University, Anand 🏫. I love to explore and learn about new things.
 
