@@ -4,7 +4,8 @@
 
 <img align='right' src='https://media3.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=790b76117b09c46edf1d16957646e48c9dd398a3cd19165a&rid=giphy.gif&ct=g' width='500"'>
 
-I am Kashyap Shah 😃. I live in Veraval, Gujarat and currently I am third year Undergraduate in Computer Engineering, B.Tech from Devang Patel Institute of Advance Technology And Research, CHARUSAT University, Anand 🏫. I love to explore and learn about new things.
+I am Kashyap Shah 😃. I live in Veraval, Gujarat and currently I am third year Undergraduate in Computer Engineering, B.Tech from Devang Patel Institute of Advance Technology And Research, CHARUSAT University, Anand 🏫. I love to explore and learn about new things. 
+[Open Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/Kashyap%20Shah%20-%20Resume.pdf)
 
 ## ⚡ Technologies
 Talk to me about
