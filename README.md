@@ -21,15 +21,17 @@ Talk to me about
     
   ![Github stats](https://github-readme-stats.vercel.app/api?username=kashyap-shah&theme=dark&show_icons=true&count_private=true) <br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap-shah&layout=compact&theme=dark) <br>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyap-shah&theme=dark" alt="kashyap-shah" /></p>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap-shah&layout=compact&theme=dark) <br>
+  
   Advanced Github Stats : https://gitstats.me/kashyap-shah
 
 </details>
 
 <details><summary>Social</summary><br>
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyap-shah-635648177/) [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009430533610) [![image](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/_kashyapshah) [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kashyapshah9100) [![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kashyapshah) [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kashyapshah09) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kashyapshah09/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyapshah09) [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009430533610) [![image](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/_kashyapshah) [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kashyapshah9100) [![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kashyapshah) [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kashyapshah09) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kashyapshah09/)
 
 [![badge](https://img.shields.io/badge/Leetcode-KashyapShah-orange)](https://leetcode.com/KashyapShah/)
 [![badge](https://img.shields.io/badge/HackerRank-@kashyapshah9100-green)](https://www.hackerrank.com/kashyapshah9100)
