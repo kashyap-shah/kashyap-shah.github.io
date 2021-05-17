@@ -12,7 +12,7 @@ Talk to me about
 - Front-End-Developement (HTML, CSS, Javascript, PHP, Bootstrap)
 - Back-End-Developement (MySQL, XAMPP, MAMP, Oracle Database, Java, Python)
 
-## Hello World!! 
+## Hello World!
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://kashyap-shah.github.io/kashyap-shah/)
 - ⚡ Fun fact: Internet users blink less than usual.
