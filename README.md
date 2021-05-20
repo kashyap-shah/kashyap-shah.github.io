@@ -14,7 +14,7 @@ Talk to me about
 
 ## Hello World!
 - 💬 Ask me about anything and everything.
-- 🎯 Portfolio site: [Portfolio](http://kashyap-shah.me/)
+- 🎯 Portfolio site: [Portfolio](https://kashyap-shah.me/)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 <details><summary>Github Stats</summary><br>
