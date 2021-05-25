@@ -6,7 +6,6 @@
 <img align='right' src='https://media3.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=790b76117b09c46edf1d16957646e48c9dd398a3cd19165a&rid=giphy.gif&ct=g' width='500"'>
 
 I am Kashyap Shah 😃. I am from a small town - Veraval, Gujarat and currently I am third year Undergrad student in Computer Engineering, Doing B.Tech. from [Devang Patel Institute of Advance Technology And Research](https://www.charusat.ac.in/depstar/), [CHARUSAT University](https://www.charusat.ac.in/), Anand 🏫. I love to explore and learn about new things. 
-[Open Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/Kashyap%20Shah%20-%20Resume.pdf)
 
 ## ⚡ Technologies
 Talk to me about
@@ -14,8 +13,9 @@ Talk to me about
 - Back-End-Developement (MySQL, XAMPP, MAMP, Oracle Database, Java, Python)
 
 ## Hello World!
-- 💬 Ask me about anything and everything.
-- 🎯 Portfolio site: [Portfolio](https://kashyap-shah.me/)
+- 📧 [Mail me](mailto:kashyapshah9100@gmail.com)
+- 📑 Checkout my [Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/Kashyap%20Shah%20-%20Resume.pdf)
+- 🎯 [My Portfolio](https://kashyap-shah.me/)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 <details><summary>Github Stats</summary><br>
