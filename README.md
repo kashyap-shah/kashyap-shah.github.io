@@ -13,9 +13,9 @@ Talk to me about
 - Back-End-Developement (PHP, MySQL, XAMPP, MAMP, Oracle Database, Java, Python)
 
 ## Hello World!
-- 📧 [Mail me](mailto:kashyapshah9100@gmail.com)
+- 📧 Mail me: [kashyapshah9100@gmail.com](mailto:kashyapshah9100@gmail.com)
 - 📑 Checkout my [Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/Kashyap%20Shah%20-%20Resume.pdf)
-- 🎯 My Portfolio: [https://kashyap-shah.me/](https://kashyap-shah.me/)
+- 🎯 My Portfolio: [kashyap-shah.me](https://kashyap-shah.me/)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 <details><summary>Github Stats</summary><br>
