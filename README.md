@@ -14,7 +14,7 @@ Talk to me about
 
 ## Hello World!
 - 📧 Mail me: [kashyapshah9100@gmail.com](mailto:kashyapshah9100@gmail.com)
-- 📑 Checkout my [Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/KASHYAP%20SHAH's%20Resume.pdf)
+- 📑 Checkout my [Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/Resume.pdf)
 - 🎯 My Portfolio: [kashyap-shah.me](https://kashyap-shah.me/)
 - ⚡ Fun fact: Internet users blink less than usual.
 
