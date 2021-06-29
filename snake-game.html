@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Snake Game</title>
+	<link rel = "icon" type = "image/png" href = "assets/images/icon.png">
+	<link rel="stylesheet" type="text/css" href="assets/css/snake-game.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><!--Social Symbols-->
+	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+</head>
+<body onload="setTimeout(loadingFunction,1800)">
+	<!--PRELOADER-->
+	<div id="loading"><p>Searching Food Near You...&#128270;<p></div>
+
+	<!--HEADER-->
+	<header class="heading">
+		Snake Game
+	</header>
+
+	<!--MAIN-->
+	<main>
+		<canvas id="snake" width="608" height="608"></canvas><br><br>
+
+		<div class="keys">
+			<div class="up arr"><i class="fa fa-arrow-up"></i></div>
+			<br />
+			<div class="left arr"><i class="fa fa-arrow-left"></i></div>  
+			<div class="down arr"><i class="fa fa-arrow-down"></i></div>
+			<div class="right arr"><i class="fa fa-arrow-right"></i></div>
+		  </div>
+		  <br />
+		  <br />
+		  <br />
+		  <br />
+		  <div class="names">
+			<div class="uptext"></div>
+			<div class="downtext"></div>
+			<div class="lefttext"></div>
+			<div class="righttext"></div>
+			<div class="b"></div>  
+			<div class="a"></div>
+		  </div>
+
+		  <div class="text-center">
+			<button onClick="window.location.reload();" class="btn btn-outline-primary btn-style m-2">Play Again</a>
+		</div>
+		  
+        <script src="assets/js/snake-game.js"></script>
+	</main>
+</body>
+</html>

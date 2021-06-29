@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>RPS Game</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/rps.css">
+	<script src="assets/js/rps.js" defer></script>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><!--Social Symbols-->
+</head>
+<body>
+<header class="heading">
+	Rock-Paper-Scissor Game
+</header>
+<main>
+	<div class="title">
+	<h2>SELECT YOUR MOVE:</h2>
+	</div>
+	<div class="selections">
+		<b>| Rock<button class="selection" data-selection="rock">&#9994;</button>|
+		Paper<button class="selection" data-selection="paper">&#9995;</button>|
+		Scissor<button class="selection" data-selection="scissor">&#9996;</button>|</b>
+	</div>
+	<div class="mt-sm-5 mt-4 text-center">
+        <button onClick="window.location.reload();" class="btn btn-outline-primary btn-style m-2">Play Again</a>
+    </div>
+	<hr>
+	<div class="title">
+	<h2>SCORE:</h2>
+	</div>
+	<div class="result">
+		<div>
+			<b>You</b>
+			<span class="result-score" data-your-score>0</span>
+		</div>
+		<div data-final-column>
+			<b>Computer</b>
+			<span class="result-score" data-computer-score>0</span>
+		</div>
+	</div>
+	<hr>
+</main>
+</body>
+</html>
