@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=kashyap-shah&style=plastic) 
 ![Visits Badge](https://badges.pufler.dev/visits/kashyap-shah/kashyap-shah/?style=plastic)
 
-<img align='right' src='https://media3.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=790b76117b09c46edf1d16957646e48c9dd398a3cd19165a&rid=giphy.gif&ct=g' width='500"'>
+<img align='right' src='https://i.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.webp' width='500"'>
 
 I am Kashyap Shah 😃. I am from a small town - Veraval, Gujarat and currently I am third year B.Tech student in Computer Engineering, Doing B.Tech. from [Devang Patel Institute of Advance Technology And Research](https://www.charusat.ac.in/depstar/), [CHARUSAT University](https://www.charusat.ac.in/), Anand 🏫. I love to explore and learn about new things. 
 
