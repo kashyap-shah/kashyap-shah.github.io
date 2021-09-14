@@ -10,7 +10,7 @@ I am Kashyap Shah 😃. I am from a small town - Veraval, Gujarat and currently 
 ## ⚡ Technologies
 Talk to me about
 - Front-End-Developement (HTML, CSS, Javascript, Bootstrap)
-- Back-End-Developement (PHP, MySQL, XAMPP, MAMP, Oracle Database, Java, Python)
+- Back-End-Developement (PHP, MySQL, Java, Python)
 
 ## Hello World!
 - 📧 Mail me: [kashyapshah9100@gmail.com](mailto:kashyapshah9100@gmail.com)
