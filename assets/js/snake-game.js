@@ -88,6 +88,34 @@ function direction(event){
     }
 }
 
+function upArrow(){
+	if(d != "DOWN"){
+		d = "UP";
+        	up.play();
+	}
+}
+
+function leftArrow(){
+	if(d != "RIGHT"){
+		left.play();
+        	d = "LEFT";
+	}
+}
+
+function downArrow(){
+	if(d != "UP")
+		d = "DOWN";
+        	down.play();
+	}
+}
+
+function rightArrow(){
+	if(d != "LEFT"){
+		d = "RIGHT";
+        	right.play();
+	}
+}
+
 // cheack collision function
 function collision(head,array){
     for(let i = 0; i < array.length; i++){
