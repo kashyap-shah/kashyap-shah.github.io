@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 
 ![](https://komarev.com/ghpvc/?username=kashyap-shah&style=plastic) 
 ![Visits Badge](https://badges.pufler.dev/visits/kashyap-shah/kashyap-shah/?style=plastic)
@@ -15,7 +15,6 @@ Talk to me about
 ## Hello World!
 - 📧 Mail me: [kashyapshah9100@gmail.com](mailto:kashyapshah9100@gmail.com)
 - 📑 Checkout my [Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/Resume.pdf)
-- 🎯 My Website: [kashyap-shah.me](https://kashyap-shah.me/)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 <details><summary>Github Stats</summary><br>
