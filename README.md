@@ -5,12 +5,12 @@
 
 <img align='right' src='https://i.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.webp' width='500"'>
 
-I am Kashyap Shah 😃. I am from - Veraval, Gujarat and currently I am final year B.Tech student in Computer Engineering, Doing B.Tech. from [Devang Patel Institute of Advance Technology And Research](https://www.charusat.ac.in/depstar/), [CHARUSAT University](https://www.charusat.ac.in/), Anand 🏫. I love to explore and learn about new things. 
+I am Kashyap Shah 😃. I am from - Veraval, Gujarat. I recnetly graduated in Computer Engineering, B. Tech from [Devang Patel Institute of Advance Technology And Research](https://www.charusat.ac.in/depstar/), [CHARUSAT University](https://www.charusat.ac.in/), Anand 🏫. I love to explore and learn about new things. 
 
 ## ⚡ Technologies
 Talk to me about
-- Front-End-Developement (HTML, CSS, Javascript, Bootstrap)
-- Back-End-Developement (PHP, MySQL, Java, Python)
+- Front-End-Developement (HTML, CSS, Javascript, Bootstrap, Jquery)
+- Back-End-Developement (PHP, Codelgniter, MySQL, Java, Python, Postman, Git)
 
 ## Hello World!
 - 📧 Mail me: [kashyapshah9100@gmail.com](mailto:kashyapshah9100@gmail.com)
