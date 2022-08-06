@@ -1,7 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 
 ![](https://komarev.com/ghpvc/?username=kashyap-shah&style=plastic) 
-![Visits Badge](https://badges.pufler.dev/visits/kashyap-shah/kashyap-shah/?style=plastic)
 
 <img align='right' src='https://i.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.webp' width='500"'>
 
