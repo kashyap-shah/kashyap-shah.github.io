@@ -4,7 +4,7 @@
 
 <img align='right' src='https://i.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.webp' width='500"'>
 
-I am Kashyap Shah 😃. I am from - Veraval, Gujarat. I am in Ahmedabad, Gujarat, working as a Junior Web Developer. I have completed my graduation in Computer Engineering, B. Tech from [Devang Patel Institute of Advance Technology And Research](https://www.charusat.ac.in/depstar/), [CHARUSAT University](https://www.charusat.ac.in/), Anand 🏫 in 2018. I love to explore and learn about new things. 
+I am Kashyap Shah 😃. I am from - Veraval, Gujarat. Currently, I am in Ahmedabad, Gujarat, working as a Junior Web Developer with 1.5+ years of experience. I have completed my graduation in Computer Engineering, B. Tech from [Devang Patel Institute of Advance Technology And Research](https://www.charusat.ac.in/depstar/), [CHARUSAT University](https://www.charusat.ac.in/), Anand 🏫 in 2022. I love to explore and learn about new things. 
 
 ## ⚡ Technologies
 Talk to me about
