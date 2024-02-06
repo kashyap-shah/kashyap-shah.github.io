@@ -4,7 +4,7 @@
 
 <img align='right' src='https://i.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.webp' width='500"'>
 
-I am Kashyap Shah 😃. I am from - Veraval, Gujarat. I recnetly graduated in Computer Engineering, B. Tech from [Devang Patel Institute of Advance Technology And Research](https://www.charusat.ac.in/depstar/), [CHARUSAT University](https://www.charusat.ac.in/), Anand 🏫. I love to explore and learn about new things. 
+I am Kashyap Shah 😃. I am from - Veraval, Gujarat. Currently, I am a Junior Web Developer. I have completed my graduation in Computer Engineering, B. Tech from [Devang Patel Institute of Advance Technology And Research](https://www.charusat.ac.in/depstar/), [CHARUSAT University](https://www.charusat.ac.in/), Anand 🏫 in 2018. I love to explore and learn about new things. 
 
 ## ⚡ Technologies
 Talk to me about
@@ -13,7 +13,7 @@ Talk to me about
 
 ## Hello World!
 - 📧 Mail me: [kashyapshah9100@gmail.com](mailto:kashyapshah9100@gmail.com)
-- 📑 Checkout my [Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/Resume.pdf)
+- 📑 Checkout my [Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/Kashyap_Shah_Resume.pdf)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 <details><summary>Github Stats</summary><br>
@@ -24,7 +24,7 @@ Talk to me about
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap-shah&layout=compact&theme=dark) <br>
   
-  Advanced Github Stats : https://gitstats.me/kashyap-shah
+  Advanced Github Stats: https://gitstats.me/kashyap-shah
 
 </details>
 
