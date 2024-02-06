@@ -13,7 +13,7 @@ Talk to me about
 
 ## Hello World!
 - 📧 Mail me: [kashyapshah9100@gmail.com](mailto:kashyapshah9100@gmail.com)
-- 📑 Checkout my [Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/Kashyap_Shah_Resume.pdf)
+- 📑 Checkout my [Resume](https://github.com/kashyap-shah/kashyap-shah/blob/master/Resume.pdf)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 <details><summary>Github Stats</summary><br>
